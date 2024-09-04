@@ -1,0 +1,20 @@
+One_classmate = input("Enter the name of first classmate: ") # First Classmate
+Sekan_classmate = input("Enter the name of Sekan classmate: ") # Sekan Classmate
+Third_classmate = input("Enter the name of Third classmate: ") # Third Classmate
+
+print("The name of the three classmates are: ")
+print(" 1. " + One_classmate)
+print(" 2. " + Sekan_classmate)
+print(" 3. " + Third_classmate)
+
+
+
+OUTPUT:
+
+Enter the name of first classmate: John Rey
+Enter the name of Sekan classmate: Decoyz
+Enter the name of Third classmate: Jade
+The name of the three classmates are: 
+ 1. John Rey
+ 2. Decoyz
+ 3. Jade
